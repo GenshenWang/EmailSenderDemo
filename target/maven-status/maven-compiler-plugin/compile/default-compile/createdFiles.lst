@@ -1,0 +1,4 @@
+com\wgs\mailSender\controller\MailSenderController.class
+com\wgs\mailSender\util\MailSender.class
+com\wgs\mailSender\util\JSONUtil.class
+com\wgs\mailSender\controller\IndexController.class
